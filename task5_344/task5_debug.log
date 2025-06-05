@@ -1,0 +1,13 @@
+[2025-05-13 17:28:30] DEBUG in task5_main.c:37: Starting server on port 2525 with ID Server344
+[2025-05-13 17:28:30] DEBUG in task5_main.c:66: Server is listening on 127.0.0.1:2525
+[2025-05-13 17:28:39] DEBUG in task5_main.c:76: Client connected
+[2025-05-13 17:28:39] DEBUG in task5_server.c:99: Sent SERVERACCEPT
+[2025-05-13 17:28:39] DEBUG in task5_server.c:128: Sent SERVERHELO to 1
+[2025-05-13 17:28:39] DEBUG in task5_server.c:157: Sent SERVERREPLY 250
+[2025-05-13 17:28:39] DEBUG in task5_server.c:157: Sent SERVERREPLY 250
+[2025-05-13 17:28:39] DEBUG in task5_server.c:157: Sent SERVERREPLY 354
+[2025-05-13 17:28:39] ERROR in task5_server.c:303: Invalid DATA header
+[2025-05-13 17:28:39] DEBUG in task5_server.c:157: Sent SERVERREPLY 250
+[2025-05-13 17:28:39] DEBUG in task5_server.c:157: Sent SERVERREPLY 221
+[2025-05-13 17:28:39] DEBUG in task5_server.c:361: QUIT received, closing connection
+[2025-05-13 17:28:39] DEBUG in task5_main.c:84: Server shutting down

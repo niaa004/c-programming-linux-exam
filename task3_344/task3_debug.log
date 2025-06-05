@@ -1,0 +1,16 @@
+[2025-05-13 17:07:01] DEBUG in flight.c:50: Flight '22-er' added successfully
+[2025-05-13 17:07:17] DEBUG in passenger.c:98: Passenger 'Ola Olsen' added to flight '22-er'.
+
+[2025-05-13 17:07:38] DEBUG in flight.c:50: Flight 'et-33' added successfully
+[2025-05-13 17:08:05] DEBUG in passenger.c:98: Passenger 'Ola Olsen' added to flight 'et-33'.
+
+[2025-05-13 17:08:59] DEBUG in flight.c:84: Printed flight at index, 1
+[2025-05-13 17:09:05] DEBUG in flight.c:84: Printed flight at index, 2
+[2025-05-13 17:10:18] DEBUG in passenger.c:98: Passenger 'Hex Dec' added to flight '22-er'.
+
+[2025-05-13 17:10:24] DEBUG in flight.c:84: Printed flight at index, 1
+[2025-05-13 17:11:04] DEBUG in passenger.c:183: Passenger 'Hex Dec' moved to seat 20 on flight '22-er'.
+
+[2025-05-13 17:11:07] DEBUG in flight.c:84: Printed flight at index, 2
+[2025-05-13 17:11:10] DEBUG in flight.c:84: Printed flight at index, 1
+[2025-05-13 17:11:16] DEBUG in flight.c:166: All flight and passengers cleaned up.
