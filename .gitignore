@@ -1,0 +1,28 @@
+# Object files and binaries
+*.o
+*.out
+*.bin
+*.exe
+
+# Log and debug files
+*.log
+
+# Encrypted or test files
+*.enc
+*.eml
+*.hash
+*.zip
+
+# Editor/OS temp files
+.DS_Store
+*.swp
+
+# Compiled executables
+task2
+task3
+task4
+task5
+task6
+
+# Build folders
+obj/
